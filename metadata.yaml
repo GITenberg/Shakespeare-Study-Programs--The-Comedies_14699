@@ -1,0 +1,32 @@
+_repo: Shakespeare-Study-Programs--The-Comedies_14699
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Clarke, Helen Archibald
+    alias: Clarke, Helen A. (Helen Archibald)
+    deathdate: 1926
+    gutenberg_agent_id: '5638'
+    url: http://www.gutenberg.org/2009/agents/5638
+  - agent_name: Porter, Charlotte Endymion
+    birthdate: 1859
+    deathdate: 1942
+    gutenberg_agent_id: '5637'
+    url: http://www.gutenberg.org/2009/agents/5637
+description: ''
+gutenberg_issued: '2005-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14699'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Comedies'
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Outlines, syllabi, etc.'
+title: Shakespeare Study Programs; The Comedies
+url: http://www.gutenberg.org/ebooks/14699
